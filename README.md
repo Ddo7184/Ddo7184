@@ -17,8 +17,11 @@ I'm a recent SOC Analyst working in GovTech, with a total of 2.5 years of profes
 
 <img align="left" alt="pfSense" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" />
 <img align="left" alt="PuTTY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
+<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idKPgS4O0g/w/400/h/400/theme/dark/icon.png?k=id64Mup7ac&t=1721192413438?t=1721192413438" />
+<img align="left" alt="Metasploit" width="40px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idFlREP4Jj/w/400/h/400/theme/dark/icon.png?k=id64Mup7ac&t=1721176576288?t=1721176576288" />
 <img align="left" alt="Windows" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Kali" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" />
 <img align="left" alt="Ubuntu" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PowerShell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
