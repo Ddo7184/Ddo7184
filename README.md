@@ -2,7 +2,7 @@
 
 **`Cybersecurity by Day, Scripting and Coding by Night`**
 
-I'm a recent SOC Analyst working in GovTech, with a total of 2.5 years of professional IT expertise. I'm also a undercollege student studying Cybersecurity, working to studying Cyber Defense/Offense for graduate school. Aside from work and school, I enjoy modifying game processes, creating scripts to make and automate maintaining my computer simple, and burrowing further into cybersecurity and ethical hacking to learn more. I look forward to putting up some scripts I make and cybersecurity projects I do onto here as I do more and more to better myself as a burgeoning professional in cybersecurity.
+I'm a recent SOC Analyst working in GovTech, with a total of 3.5 years of professional IT expertise. I'm also a undercollege student studying Cybersecurity. Aside from work and school, I enjoy modifying game processes, creating scripts to make and automate maintaining my computer simple, and burrowing further into cybersecurity and ethical hacking to learn more. I look forward to putting up some scripts I make and cybersecurity projects I do onto here as I do more and more to better myself as a burgeoning professional in cybersecurity. I'm also learning how to build out my first full-stack website as my videographer contact's business portfolio and booking system.
 
 ---
 
